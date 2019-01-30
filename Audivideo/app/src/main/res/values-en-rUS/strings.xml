@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audivideo</string>
+    <string name="app_stop">Stop</string>
+    <string name="app_record">Record</string>
+    <string name="app_recvid">Go to record videos</string>
+    <string name="app_takepics">Go to take pics</string>
+    <string name="app_welcomeuser">Welcome user</string>
+    <string name="app_shared">Share</string>
+    <string name="app_searched">Search</string>
+</resources>

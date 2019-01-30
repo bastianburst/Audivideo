@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audivideo</string>
+    <string name="app_stop">Stop</string>
+    <string name="app_record">Record</string>
+
+    <string name="app_recvid">Ir a grabar videos</string>
+    <string name="app_takepics">Ir a tomar fotos</string>
+    <string name="app_takeaudio">Ir a grabar audio</string>
+    <string name="app_welcomeuser">Bienvenido Usuario</string>
+    <string name="app_shared">Compartir</string>
+    <string name="app_searched">Buscar</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/compartir"
+        android:icon="@drawable/compartir"
+        android:title="@string/app_shared"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/buscar"
+        android:icon="@drawable/buscar"
+        android:title="@string/app_searched"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item1"
+        android:title="@string/app_recvid" />
+    <item
+        android:id="@+id/item2"
+        android:title="@string/app_takepics" />
+    <item
+        android:id="@+id/item3"
+        android:title="@string/app_takeaudio" />
+</menu>
